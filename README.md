@@ -7,6 +7,13 @@ A very simple Linux like shell that executes basic commands such as:
 * ls -l /home/user/Downloads | sort –u > listing.txt (single piping)
 * ls -l /home/user/Downloads | sort –u | wc –l > count.txt (multiple piping)
 
+Properties:
+
+* Ends with EOF(Ctrl+D).
+* Maximum number of input characters is 255.
+* Using `fork()` to operate different processes.
+* No zombie processes.
+* Running only external commands that aren't built into the Linux shell.
 
 
 ## HowTo
