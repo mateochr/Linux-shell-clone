@@ -1,5 +1,5 @@
-# DIY-Linux-shell
-A very simple Linux like shell that executes basic commands such as:
+# Linux-shell-like
+A very simple Linux shell-like program that executes basic commands such as:
 
 * ls
 * ls -l
