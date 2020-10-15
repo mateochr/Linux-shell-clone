@@ -1,5 +1,5 @@
-# Linux-shell-like
-A very simple Linux shell-like program that executes basic commands such as:
+# Linux-shell-clone
+A very simple Linux shell clone program that executes basic commands such as:
 
 * ls
 * ls -l
